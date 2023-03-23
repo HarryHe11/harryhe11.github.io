@@ -10,7 +10,8 @@ I'm Haorui He (何昊睿), a 4th-year undergraduate student in Software Engineer
 ---
 ### **Education**
 
-+ **Sep. 2019 -- Jun. 2023 (expected)** B.Eng. in Software Engineering, Nanjing University of Posts and Telecommnucations, China.      
++ **Sep. 2019 -- Jun. 2023** B.Eng. in Software Engineering, Nanjing University of Posts and Telecommnucations, Nanjing, China.      
++ **Sep. 2023 -- Jun. 2025 (expected)** Master of Science in Computer Science, Northeastern University, Vancouver, Canada.      
 
 ---
 ### **Research Experience**
@@ -21,7 +22,7 @@ I'm Haorui He (何昊睿), a 4th-year undergraduate student in Software Engineer
 
 ---
 
-### **Publications & Manuscripts**
+<!--### **Publications & Manuscripts**
 
 + **Adaptive Knowledge Distillation for Efficient Relation Classification** [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_13)
 <br><u>Haorui He</u>, Yuanzhe Ren, Zheng Li, and Jing Xue.
@@ -57,7 +58,7 @@ I'm Haorui He (何昊睿), a 4th-year undergraduate student in Software Engineer
 <br>1. Data Analyses of Public Stance towards COVID-19 Vaccination [[research report]](https://research.hkbu.edu.hk/f/page/20480/21996/(EN)OVH_Report_No.14_V2.pdf)
 <br>2. Using Machine Learning to Analyze Residents’ Anxiety amid the COVID-19 [[research report]](https://research.hkbu.edu.hk/f/page/20923/23009/Anxiety_Report_Eng_Final.pdf)
 <br>3. Visualization for Spatial-Temporal Dynamics for the Fifth Wave of COVID-19 in Hong Kong [[website]](coronavirus-dynamics-hk.github.io)
-
+-->
 + **Football**
  <br>I am one of the most loyal fans of the German football club Borussia Dortmund and its captain Marco Reus. At the same time, I appreciate Erling Haaland and Cristiano Ronaldo very much. 
  
