@@ -29,11 +29,11 @@ I am Haorui He (何昊睿), a recent graduate with a bachelor's degree in Softwa
 
 + **Contextual Target-Specific Stance Detection on Twitter: New Dataset and Method**
 <br>Yupeng Li, Dacheng Wen, <u>Haorui He</u>, and Francis C. M. Lau.
-<br>Proc. of ACM MM, 2023 (under review)
+<br>The 31st ACM International Conference on Multimedia (ACM MM 2023, under review)
 
 + **Does the Divergence of Vaccine Stance Induce Incivility? A Social Network Analysis of Conversation Threads on Online Forums**
 <br>Hanjing Wang, Yupeng Li, and <u>Haorui He</u>.
-<br>Oral Presentation, The 73rd Annual International Communication Association Conference (ICA 2023).
+<br>The 73rd Annual International Communication Association Conference (ICA 2023, oral presentation).
 
 ---
 
