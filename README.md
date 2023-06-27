@@ -1,6 +1,6 @@
 # **Haorui He's Homepage**
 
-[[Github]](https://github.com/HarryHe11) [[CV]](assets/Haorui_He_CV.pdf) [[Email]](hehaorui11[at]gmail[dot].com)
+[[Github]](https://github.com/HarryHe11) [[CV]](assets/CV_Haorui_He.pdf) [[Email]](hehaorui11[at]gmail[dot].com)
 
 ---
 ## **About me**
