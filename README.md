@@ -10,7 +10,8 @@ I'm Haorui He (何昊睿). I just obtained my bachelor's degree in Software Engi
 ---
 ### **Education**
 
-+ **Sep. 2019 -- Jun. 2023** B.Eng. in Software Engineering, Nanjing University of Posts and Telecommunications, Nanjing, China. 
++ **Sep. 2019 -- Jun. 2023** B.Eng. in Software Engineering, Nanjing University of Posts and Telecommunications, Nanjing, China.
+  
 ---
 ### **Research Experience**
 
