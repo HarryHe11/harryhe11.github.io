@@ -21,7 +21,7 @@ I'm Haorui He (何昊睿). I just obtained my bachelor's degree in Software Engi
 
 ---
 
-**Publications & Manuscripts**
+### **Publications & Manuscripts**
 
 + **Improved Target-specific Stance Detection on Social Media Platform by Delving into Conversation Threads** [[pre-print]](https://arxiv.org/abs/2211.03061)
 <br>Yupeng Li, <u>Haorui He</u> (Corresponding), Shaonan Wang, Francis C.M. Lau, and Yunya Song.
@@ -37,7 +37,7 @@ I'm Haorui He (何昊睿). I just obtained my bachelor's degree in Software Engi
 
 ---
 
-**Service**
+### **Service**
 
 + **Reviewer:** ACM MM 2023
 
