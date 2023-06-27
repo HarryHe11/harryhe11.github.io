@@ -25,7 +25,7 @@ I am Haorui He (何昊睿), a recent graduate with a bachelor's degree in Softwa
 
 + **Improved Target-specific Stance Detection on Social Media Platform by Delving into Conversation Threads** [[pre-print]](https://arxiv.org/abs/2211.03061)
 <br>Yupeng Li, <u>Haorui He</u> (Corresponding), Shaonan Wang, Francis C.M. Lau, and Yunya Song.
-<br>IEEE Transactions on Computational Social Systems (under the 2nd round of revision)
+<br>IEEE Transactions on Computational Social Systems (IEEE TCSS, under the 2nd round of revision)
 
 + **Contextual Target-Specific Stance Detection on Twitter: New Dataset and Method**
 <br>Yupeng Li, Dacheng Wen, <u>Haorui He</u>, and Francis C. M. Lau.
